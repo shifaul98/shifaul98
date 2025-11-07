@@ -1,18 +1,39 @@
-# 👋 Hi, I'm Shifaul  
+# 👋 Hi, I'm Shifaul 
 
-I’m a tech-driven engineer with a Bachelor’s in Aerospace Engineering from the Singapore Institute of Technology. My journey blends hands-on engineering with digital transformation — where I’ve led and supported projects integrating **Augmented Reality (AR)** and **IoT-based systems** to enhance aerospace **Maintenance, Repair, and Overhaul (MRO)** operations.  
+I’m an **Aerospace Engineering graduate** passionate about the intersection of **technology, data, and innovation**. My experience at **ST Engineering Aerospace** allowed me to work hands-on with **Augmented Reality (AR)** and **IoT-based smart maintenance systems**, where I streamlined operations, improved efficiency, and collaborated closely with cross-functional engineering teams.
 
-During my time at **ST Engineering Aerospace**, I spearheaded the development of an **AR solution for the shopfloor**, bridging field operations with digital tools to reduce downtime and improve workflow efficiency by 25%. Collaborating closely with cross-functional teams taught me how technology isn’t just about innovation — it’s about **making processes smarter, safer, and more human-centric**.  
+I thrive in fast-paced, problem-solving environments — whether it’s **building data-driven solutions**, **optimizing processes**, or **integrating emerging technologies** into real-world systems. I’m constantly learning and enjoy tackling technical challenges that create meaningful impact.
 
-That experience deepened my curiosity in **data-driven decision-making**, **smart manufacturing**, and **AI applications** that redefine how industries operate. I’m passionate about turning technical complexity into practical, scalable solutions that drive real impact.  
-
-Outside of engineering, I’m continuously learning — exploring emerging tech like **AI, cloud systems, and data analytics**, while enjoying moments of balance through fitness, exploration, and creative projects.  
-
-💡 *I believe meaningful innovation happens when curiosity meets purpose — and that’s the energy I bring to every team I join.*  
+When I’m not working on engineering or tech projects, you’ll find me exploring new tools in **AI, automation, and data visualization**, or brainstorming ways to improve user-focused digital solutions.
 
 ---
-📫 **Let’s connect:**  
-🔗 [LinkedIn](https://linkedin.com/in/shifaulrosman)  
-📧 shifaul98@yahoo.com.sg
-[📄 View My Resume]([https://github.com/yourusername/yourusername/raw/main/resume.pdf](https://github.com/shifaul98/shifaul98/blob/main/resume.pdf))
+### 🧩 Areas of Interest
+- Smart Manufacturing & Digital Transformation  
+- Artificial Intelligence & Data Analytics  
+- Augmented Reality (AR) / Internet of Things (IoT)  
+- Process Optimization & Systems Engineering  
+
+---
+### ⚙️ Technical Skills
+**Languages:** Python, C++, C#, SQL  
+**Tools:** Unity3D, ARKit, Power BI, AutoCAD, Ansys Fluent  
+**Soft Skills:** Analytical Thinking, Team Collaboration, Continuous Learning  
+---
+
+<p align="center">
+  <a href="https://github.com/shifaul98/shifaul98/raw/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-blue?style=for-the-badge&logo=readthedocs" />
+  </a>
+</p>
+
+---
+
+### 💬 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/shifaulrosman)  
+- 📧 **Email:** shifaul98@yahoo.com.sg  
+- 🌍 **Location:** Singapore  
+
+---
+
+> “Engineering is more than problem-solving — it’s about building solutions that move people, industries, and ideas forward.”
 
