@@ -14,3 +14,5 @@ Outside of engineering, I’m continuously learning — exploring emerging tech 
 📫 **Let’s connect:**  
 🔗 [LinkedIn](https://linkedin.com/in/shifaulrosman)  
 📧 shifaul98@yahoo.com.sg
+[📄 View My Resume]([https://github.com/yourusername/yourusername/raw/main/resume.pdf](https://github.com/shifaul98/shifaul98/blob/main/resume.pdf))
+
