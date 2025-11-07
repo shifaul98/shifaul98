@@ -15,9 +15,9 @@ When I’m not working on engineering or tech projects, you’ll find me explori
 
 ---
 ### ⚙️ Technical Skills
-**Languages:** Python, C++, C#, SQL  
-**Tools:** Unity3D, ARKit, Power BI, AutoCAD, Ansys Fluent  
-**Soft Skills:** Analytical Thinking, Team Collaboration, Continuous Learning  
+- Languages: Python, C++, C#, SQL  
+- Tools: Unity3D, ARKit, Power BI, AutoCAD, Ansys Fluent  
+- Soft Skills: Analytical Thinking, Team Collaboration, Continuous Learning  
 ---
 
 <p align="center">
