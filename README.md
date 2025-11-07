@@ -13,17 +13,9 @@ I’m driven by curiosity and a continuous learning mindset — always seeking w
 - Emerging Technologies & Automation  
 - Continuous Learning & Real-World Impact
 
----
-
 <p align="center">
   <a href="https://github.com/shifaul98/shifaul98/raw/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_Resume-blue?style=for-the-badge&logo=readthedocs" />
   </a>
 </p>
 
----
-
-📫 **Let’s Connect**  
-- [LinkedIn](https://www.linkedin.com/in/shifaulrosman)  
-- 📧 shifaul98@yahoo.com.sg  
-- 🌍 Singapore  
