@@ -15,7 +15,7 @@ I’m driven by curiosity and a continuous learning mindset — always seeking w
 
 <p align="left">
   <a href="https://github.com/shifaul98/shifaul98/raw/main/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume-blue?style=for-the-badge&logo=readthedocs" />
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=readthedocs" />
   </a>
 </p>
 
