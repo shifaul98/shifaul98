@@ -1,39 +1,23 @@
-# 👋 Hi, I'm Shifaul 
+# 👋 Hi, I'm Shifaul
 
-I’m an **Aerospace Engineering graduate** passionate about the intersection of **technology, data, and innovation**. My experience at **ST Engineering Aerospace** allowed me to work hands-on with **Augmented Reality (AR)** and **IoT-based smart maintenance systems**, where I streamlined operations, improved efficiency, and collaborated closely with cross-functional engineering teams.
+I’m an **Aerospace Engineering graduate** passionate about **innovation, data, and digital transformation**.  
+During my time at **ST Engineering Aerospace**, I led initiatives integrating **Augmented Reality (AR)** and **IoT technologies** to enhance maintenance operations, streamline workflows, and drive measurable efficiency gains.  
 
-I thrive in fast-paced, problem-solving environments — whether it’s **building data-driven solutions**, **optimizing processes**, or **integrating emerging technologies** into real-world systems. I’m constantly learning and enjoy tackling technical challenges that create meaningful impact.
-
-When I’m not working on engineering or tech projects, you’ll find me exploring new tools in **AI, automation, and data visualization**, or brainstorming ways to improve user-focused digital solutions.
-
+I’m driven by curiosity and a continuous learning mindset — always seeking ways to connect engineering, data, and technology to create smarter, scalable solutions.  
 ---
-### 🧩 Areas of Interest
+### 💡 What I’m Passionate About  
 - Smart Manufacturing & Digital Transformation  
-- Artificial Intelligence & Data Analytics  
-- Augmented Reality (AR) / Internet of Things (IoT)  
-- Process Optimization & Systems Engineering  
-
+- Data-Driven Problem Solving  
+- Emerging Technologies & Automation  
+- Continuous Learning & Real-World Impact  
 ---
-### ⚙️ Technical Skills
-- Languages: Python, C++, C#, SQL  
-- Tools: Unity3D, ARKit, Power BI, AutoCAD, Ansys Fluent  
-- Soft Skills: Analytical Thinking, Team Collaboration, Continuous Learning  
----
-
 <p align="center">
   <a href="https://github.com/shifaul98/shifaul98/raw/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_Resume-blue?style=for-the-badge&logo=readthedocs" />
   </a>
 </p>
-
 ---
-
-### 💬 Connect With Me
+📫 **Let’s Connect**  
 - [LinkedIn](https://www.linkedin.com/in/shifaulrosman)  
-- 📧 **Email:** shifaul98@yahoo.com.sg  
-- 🌍 **Location:** Singapore  
-
----
-
-> “Engineering is more than problem-solving — it’s about building solutions that move people, industries, and ideas forward.”
-
+- 📧 shifaul98@yahoo.com.sg  
+- 🌍 Singapore  
